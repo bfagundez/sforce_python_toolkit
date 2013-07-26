@@ -2,12 +2,14 @@
 Salesforce Python toolkit
 =============
 
-My fork to this great Salesforce SOAP wrapper. 
+My fork to this great Salesforce SOAP wrapper.
+
 *Modified the partner class to return inner query results, the original version returned only the first element of the inner query.*
 
+Original code at: https://code.google.com/p/salesforce-python-toolkit/ 
 
-Original code at: https://code.google.com/p/salesforce-python-toolkit/
 The original README:
+
 
 Mission: To provide a thin layer around the raw SOAP interaction that consumes Salesforce's
 Enterprise and Partner WSDLs and handles the nitty-gritty details of the SOAP interaction.
